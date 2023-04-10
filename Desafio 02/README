@@ -1,0 +1,10 @@
+Desafio: Crie uma página HTML com uma lista de produtos e seus preços.
+
+Requisitos:
+
+A página deve ter um título "Produtos".
+A lista de produtos deve ser exibida em uma tabela com duas colunas: uma para o nome do produto e outra para o preço.
+Deve haver pelo menos cinco produtos na lista.
+A tabela deve ter um cabeçalho para cada coluna (Nome do Produto e Preço).
+A tabela deve ter linhas alternadas em cores diferentes para facilitar a leitura.
+O CSS deve ser incluído em um arquivo separado e linkado na página HTML.
