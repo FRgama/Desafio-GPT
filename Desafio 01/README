@@ -1,0 +1,8 @@
+Desafio: Crie uma página HTML simples que exiba um título "Minha página" e um parágrafo de texto que descreva algo que você gosta.
+
+Requisitos:
+
+O título deve ser exibido em uma fonte grande e em negrito.
+O parágrafo deve ter pelo menos três frases e ser exibido com uma fonte legível.
+A página deve ter um fundo de cor sólida e uma cor de texto contrastante para facilitar a leitura.
+O CSS deve ser incluído em um arquivo separado e linkado na página HTML.
