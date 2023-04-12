@@ -1,0 +1,8 @@
+Desafio: Crie uma página HTML que exibe um formulário com os seguintes campos:
+
+Um campo de entrada de texto para o nome do usuário.
+Um campo de entrada de texto para o endereço de e-mail do usuário.
+Um campo de seleção para o gênero do usuário (masculino, feminino, outro).
+Um conjunto de botões de opção para selecionar a idade do usuário (18-25, 26-35, 36-45, 46+).
+Um campo de entrada de texto para o comentário do usuário.
+Um botão de envio para enviar o formulário.
